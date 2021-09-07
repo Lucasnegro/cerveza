@@ -1,4 +1,0 @@
-Negro: 000000
-Rojo:  6a040f
-Amarillo: ffba08
-Dorado: b69121
