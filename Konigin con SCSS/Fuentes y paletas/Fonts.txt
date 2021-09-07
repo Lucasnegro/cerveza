@@ -1,0 +1,7 @@
+Oswald:
+<link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+font-family: 'Oswald', sans-serif;
+
+PT Serif:
+<link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap" rel="stylesheet">
+font-family: 'PT Serif', serif;
